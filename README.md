@@ -1,4 +1,3 @@
-Markdown
 # Finance Dashboard - Power BI
 
 > Built an interactive end-to-end Power BI dashboard to track financial metrics, monthly expenses, and key savings growth rates
