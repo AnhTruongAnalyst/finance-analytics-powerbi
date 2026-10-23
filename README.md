@@ -1,10 +1,7 @@
 Markdown
-# Executive Finance Dashboard - Power BI
+#Finance Dashboard - Power BI
 
 > An interactive end-to-end Power BI dashboard tracking financial metrics, monthly expenses, and key savings growth rates.
-
-## 🚀 Interactive Preview
-![Dashboard Demo]
 
 ## 🛠️ Key Features
 - Dynamic data filtering by date and category.
